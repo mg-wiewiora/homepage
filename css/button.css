@@ -10,3 +10,7 @@
 .button:hover {
     background-color: #fae76c;
 }
+
+, button:active {
+    background-color: #f6e683
+}
