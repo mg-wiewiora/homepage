@@ -2,6 +2,8 @@
 
 > This is my first simple website, created as part of learning the fundamentals of Front-end Development. It's an informational page about the history and benefits of honey.
 >
+> [Language: **Polish (Polski)**]
+> 
 > <img 
   src="images/cartoon_bee.png" 
   alt="A cartoon bee logo" 
