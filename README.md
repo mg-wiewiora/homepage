@@ -2,7 +2,7 @@
 
 > This is my first simple website, created as part of learning the fundamentals of Front-end Development. It's an informational page about the history and benefits of honey.
 >
-> [Language: **Polish (Polski)**]
+> Language of the page: **Polish**
 > 
 > <img 
   src="images/cartoon_bee.png" 
@@ -58,6 +58,7 @@ While working on this project, I focused on practicing and understanding the fol
 ## Author
 
 **Małgorzata Wiewióra** - [my GitHub profile](https://github.com/mg-wiewiora)
+
 
 
 
