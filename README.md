@@ -2,7 +2,7 @@
 
 > This is my first simple website, created as part of learning the fundamentals of Front-end Development. It's an informational page about the history and benefits of honey.
 >
-![A cartoon bee logo] (images/cartoon-bee.png)
+![A cartoon bee logo] (images/cartoon_bee.png)
 
 ## Demo
 
@@ -13,7 +13,7 @@
 
 ## Functionality
 
-This project is a **single-page informational website (landing page)** dedicated to the topic of honey. The main goal was to practice semantic HTML structure, CSS styling and first interactions in JavaScript.
+This project is a **single-page informational website** dedicated to the topic of honey. The main goal was to practice semantic HTML structure, CSS styling and my first interaction in JavaScript.
 
 **Key Features:**
 
@@ -36,11 +36,11 @@ This project focuses purely on the fundamentals of the core front-end technologi
 
 ---
 
-## Learning Points & Development Focus
+## Learning Points & Focus
 
 While working on this project, I focused on practicing and understanding the following concepts:
 
-1.  **CSS Class Naming:** Applying the **BEM (Block-Element-Modifier)** convention principles (e.g., `section__title`, `table--minor`) for maintainable and scalable CSS.
+1.  **CSS Class Naming:** Applying the **BEM (Block-Element-Modifier)** convention principles (e.g., `section__title`, `table__cell--minor`) for maintainable and scalable CSS.
 2.  **Code Consistency:** Using a consistent naming convention for classes that are targeted by JavaScript (`js-pageBackgroundChange`, `js-changeBackgroundButton`).
 3.  **Basic Interactivity:** My first steps in **event handling** in JavaScript, specifically attaching a click listener to a button to modify the main page element's style.
 4.  **Accessibility and Semantics:** Ensuring correct use of heading levels (`h1` through `h4`) and setting appropriate attributes like `scope` in tables and `alt` tags for images.
@@ -51,4 +51,6 @@ While working on this project, I focused on practicing and understanding the fol
 
 ## Author
 
-**Małgorzata Wiewióra** - [Link do Twojego profilu GitHub](https://github.com/mg-wiewiora)
+**Małgorzata Wiewióra** - [my GitHub profile](https://github.com/mg-wiewiora)
+
+
