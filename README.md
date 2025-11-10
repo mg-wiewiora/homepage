@@ -2,7 +2,11 @@
 
 > This is my first simple website, created as part of learning the fundamentals of Front-end Development. It's an informational page about the history and benefits of honey.
 >
-> **![A cartoon bee logo](images/cartoon_bee.png)**
+> <img 
+  src="images/cartoon_bee.png" 
+  alt="A cartoon bee logo" 
+  width="200" 
+/>
 
 ## Demo
 
@@ -52,6 +56,7 @@ While working on this project, I focused on practicing and understanding the fol
 ## Author
 
 **Małgorzata Wiewióra** - [my GitHub profile](https://github.com/mg-wiewiora)
+
 
 
 
